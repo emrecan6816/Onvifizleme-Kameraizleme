@@ -91,3 +91,13 @@ Notlar:
   10 yanlış şifre denemesinde o adres 5 dakika engellenir.
 - Kalıcı tüneli Cloudflare Access (e-posta doğrulaması) ile korumanız önerilir.
 - Şifre ve token, kamera şifreleri gibi `%APPDATA%\KameraMerkezi\ayarlar.json` içinde düz metin durur.
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a0c678f-3301-43af-a098-5250efaa94ca" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4175e6f9-160a-48e2-9246-b632427279de" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d30e3b2a-f223-4d26-9fcc-9ff8373b9408" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/572acdf9-b046-4cb1-a813-f3d5596d890e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a51a6a2-65bd-4f84-a8e6-ff0b0c2dc0ad" />
+
+
+
+
+
